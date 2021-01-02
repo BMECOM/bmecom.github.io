@@ -1,4 +1,6 @@
 # bmecom.github.io
+
+This is sample of color code:
 ```diff
 - text in red
 + text in green
